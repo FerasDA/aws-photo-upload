@@ -1,0 +1,10 @@
+{
+  "name": "file-upload-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function for file uploads to S3",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.637.0",
+    "dotenv": "^16.4.5"
+  }
+}

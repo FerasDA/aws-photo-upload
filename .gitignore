@@ -33,5 +33,4 @@ credentials.json
 
 # Ignore JavaScript front-end files
 node_modules/
-package.json
 package-lock.json
