@@ -6,6 +6,7 @@
 *.jar
 *.war
 *.ear
+*.zip
 
 # Ignore build output directories
 target/
